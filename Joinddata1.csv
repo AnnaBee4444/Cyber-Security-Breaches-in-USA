@@ -1,0 +1,295 @@
+Field,year,Year,State,Field,Individuals_Affected,Type_of_Breach,Method,Organizationtype,TypeofBreach,CoveredEntityType,IndividualsAffected
+1,2009,2016,TX,1,1000,Theft,hacked,healthcare,Hacking/IT Incident,Healthcare Provider,151626
+2,2009,2020,MO,2,1000,Theft,hacked,social networking,Hacking/IT Incident,Business Associate,1831
+3,2009,2020,AK,3,501,Theft,poor security,healthcare,Hacking/IT Incident,Healthcare Provider,660
+4,2009,2013,DC,4,3800,Loss,hacked,tech,Hacking/IT Incident,Health Plan,3000
+5,2009,2019,CA,5,5257,Theft,poor security,tech,Hacking/IT Incident,Healthcare Provider,1100
+6,2009,2017,CA,6,857,Theft,lost / stolen media,healthcare,Hacking/IT Incident,Business Associate,1290
+7,2009,2018,CA,7,6145,Theft,hacked,advertising,Hacking/IT Incident,Healthcare Provider,
+8,2009,2013,CA,8,952,Theft,lost / stolen media,healthcare,Hacking/IT Incident,Healthcare Provider,4831
+9,2009,2019,CA,9,5166,Theft,poor security,telecommunications,Hacking/IT Incident,Healthcare Provider,505
+10,2009,2018,CA,10,5900,Theft,hacked,transport,Hacking/IT Incident,Healthcare Provider,7038
+11,2009,2005,PA,11,943,Theft,lost / stolen media,financial,Hacking/IT Incident,Healthcare Provider,3620000
+12,2009,2021,TN,12,6400,Theft,poor security,web,Hacking/IT Incident,Healthcare Provider,2213597
+13,2009,2020,NY,13,83000,Other,hacked,gaming,Hacking/IT Incident,Health Plan,1688
+14,2009,2021,CA,14,596,Theft,hacked,healthcare,Hacking/IT Incident,Health Plan,3074
+15,2009,2021,NC,15,2000,Hacking/IT Incident,hacked,healthcare,Hacking/IT Incident,Healthcare Provider,570
+16,2009,2021,MI,16,10000,Theft,"inside job, hacked",web,Hacking/IT Incident,,2029
+17,2009,2021,MI,17,646,Theft,accidentally published,web,Hacking/IT Incident,Healthcare Provider,6851
+18,2009,2014,CA,18,610,Other,hacked,web,Hacking/IT Incident,Healthcare Provider,42372
+19,2009,2021,MA,19,1860,Theft,accidentally published,"tech, retail",Hacking/IT Incident,Health Plan,
+20,2009,2021,MA,20,1076,Theft,hacked,tech,Hacking/IT Incident,Health Plan,78800000
+21,2009,2021,DC,21,3400,Theft,poor security,healthcare,Hacking/IT Incident,Healthcare Provider,1251
+22,2009,2015,DC,22,15000,Theft,hacked,web,Hacking/IT Incident,,506
+23,2009,2008,CA,23,15500,Theft,lost / stolen computer,telecoms,Hacking/IT Incident,Health Plan,50000
+24,2009,2010,IL,24,2562,Theft,hacked,telecoms,Hacking/IT Incident,Healthcare Provider,2021
+25,2009,2008,MI,25,10000,Theft,hacked,web,Hacking/IT Incident,Business Associate,7120
+26,2009,2005,TX,26,3800,Loss,poor security,financial,Hacking/IT Incident,Healthcare Provider,1945
+27,2009,2009,TX,27,900,Theft,lost / stolen computer,healthcare,Hacking/IT Incident,Health Plan,2743
+28,2010,2015,MO,28,9309,Theft,hacked,retail,Hacking/IT Incident,Health Plan,1100000
+29,2009,2008,IL,29,812,Theft,lost / stolen media,financial,Hacking/IT Incident,Health Plan,880
+30,2010,2005,TX,30,689,Theft,lost / stolen media,financial,Hacking/IT Incident,Healthcare Provider,300000
+31,2009,2017,CA,31,7300,Theft,poor security,telecoms,Hacking/IT Incident,Healthcare Provider,31677
+32,2010,2018,IL,32,1300,Theft,hacked,telecoms,Hacking/IT Incident,,4067
+33,2009,2014,UT,33,5700,Theft,hacked,educational services,Hacking/IT Incident,Business Associate,4100
+34,2009,2010,NV,34,5103,Theft,hacked,web,Hacking/IT Incident,Business Associate,4125
+35,2009,2011,AZ,35,1100,Theft,hacked,gaming,Hacking/IT Incident,Business Associate,4343
+36,2009,2018,RI,36,528,Other,hacked,gaming,Hacking/IT Incident,Business Associate,7250
+37,2010,2012,PR,37,1907,Theft,hacked,gaming,Hacking/IT Incident,Health Plan,12500
+38,2010,2009,PR,38,605,Theft,lost / stolen media,healthcare,Hacking/IT Incident,Healthcare Provider,2075
+39,2009,2018,FL,39,8000,Theft,poor security,banking,Hacking/IT Incident,Healthcare Provider,17100
+40,2009,2018,TN,40,3900,Theft,hacked,transport,Hacking/IT Incident,,998
+41,2010,2012,CA,41,532,Other,lost / stolen media,government,Hacking/IT Incident,Health Plan,1550
+42,2010,2019,NM,42,1900,Other,hacked,web,Hacking/IT Incident,Health Plan,1550
+43,2009,2020,CA,43,3500,Theft,hacked,game,Hacking/IT Incident,Business Associate,1924
+44,2009,2019,CO,44,2500,Theft,unsecured S3 bucket,financial,Hacking/IT Incident,Business Associate,9988
+45,2010,2005,FL,45,12580,Theft,hacked,financial,Hacking/IT Incident,Healthcare Provider,6441
+46,2009,2018,WY,46,9023,Unauthorized Access/Disclosure ,hacked,transport,Hacking/IT Incident,Healthcare Provider,11100
+47,2010,2015,WI,47,9500,Theft,hacked,healthcare,Hacking/IT Incident,Healthcare Provider,16200
+48,2010,2016,NC,48,554,Theft,hacked,financial,Hacking/IT Incident,Health Plan,10000000
+49,2010,2013,NY,49,625,Theft,hacked,energy,Hacking/IT Incident,Healthcare Provider,981
+50,2010,2009,TX,50,21000,Theft,hacked,financial,Hacking/IT Incident,Business Associate,1361
+51,2010,2020,FL,51,3800,Other,unknown,background check,Hacking/IT Incident,Healthcare Provider,3947
+52,2010,2011,WA,52,5080,Theft,hacked,web,Hacking/IT Incident,Healthcare Provider,3947
+53,2010,2011,FL,53,2600,Theft,hacked,web,Hacking/IT Incident,Health Plan,7666
+54,2010,2005,CT,54,957,Hacking/IT Incident,lost / stolen media,financial,Hacking/IT Incident,Healthcare Provider,14236
+55,2010,2011,AL,55,2465,Theft,hacked,financial,Hacking/IT Incident,Health Plan,43068
+56,2010,2013,TX,56,768,Unauthorized Access/Disclosure ,poor security,financial,Hacking/IT Incident,Health Plan,355127
+57,2010,2007,AZ,57,2773,Theft,lost / stolen media,healthcare,Hacking/IT Incident,Health Plan,557779
+58,2010,2010,PA,58,8000,"Theft, Loss",lost / stolen computer,healthcare,Hacking/IT Incident,Healthcare Provider,6853
+59,2010,2014,MI,59,83945,Other,hacked,healthcare,Hacking/IT Incident,Healthcare Provider,957
+60,2010,2016,IL,60,6800,Loss,hacked,government,Hacking/IT Incident,Health Plan,782
+61,2010,2007,CA,61,5450,Theft,inside job,financial,Hacking/IT Incident,Healthcare Provider,8727
+62,2010,2006,NE,62,660,Other,inside job,financial,Hacking/IT Incident,Business Associate,2860
+63,2010,2011,TX,63,955,Theft,inside job,financial,Hacking/IT Incident,Healthcare Provider,1980
+64,2009,2018,NY,64,344579,Theft,hacked,healthcare,Hacking/IT Incident,Business Associate,18871
+65,2010,2016,WI,65,600,Other,hacked,telecoms,Hacking/IT Incident,Health Plan,5440
+66,2010,2013,CT,66,54165,Theft,lost / stolen computer,healthcare,Hacking/IT Incident,Healthcare Provider,10401
+67,2010,2007,MA,67,3594,Theft,inside job,retail,Hacking/IT Incident,Healthcare Provider,1500
+68,2009,2008,RI,68,12000,Theft,hacked,financial,Hacking/IT Incident,Healthcare Provider,6000
+69,2010,2016,SC,69,2850,Improper Disposal,poor security,government,Hacking/IT Incident,Healthcare Provider,16228
+70,2010,2019,CA,70,22012,Theft,inside job,financial,Hacking/IT Incident,Healthcare Provider,5178
+71,2010,2014,KY,71,5148,Theft,hacked,web,Hacking/IT Incident,Healthcare Provider,59000
+72,2010,2019,TN,72,1874,Loss,hacked,web,Hacking/IT Incident,Healthcare Provider,7500
+73,2010,2007,MN,73,735,Theft,lost / stolen media,government,Hacking/IT Incident,,5000
+74,2009,2012,TX,74,1430,"Loss, Improper Disposal",hacked,web,Hacking/IT Incident,Healthcare Provider,31000
+75,2010,2013,VA,75,500,Theft,hacked,web,Hacking/IT Incident,Healthcare Provider,2900
+76,2010,2005,IL,76,180111,Theft,hacked,retail,Hacking/IT Incident,Healthcare Provider,7803
+77,2010,2013,CO,77,649,Theft,hacked,tech,Hacking/IT Incident,Business Associate,4500
+78,2010,2014,FL,78,568,Loss,hacked,web,Hacking/IT Incident,Healthcare Provider,500
+79,2010,2018-2019,TX,79,4200,Theft,hacked,restaurant,Hacking/IT Incident,Healthcare Provider,2292
+80,2010,2010,DC,80,2416,"Theft, Other",lost / stolen media,financial,Hacking/IT Incident,Healthcare Provider,650
+81,2010,2011,CA,81,40000,Theft,lost / stolen computer,healthcare,Hacking/IT Incident,Healthcare Provider,4293
+82,2010,2019,CA,82,584,Theft,poor security,tech,Hacking/IT Incident,Health Plan,880
+83,2010,2010,DC,83,656,Theft,inside job,government,Hacking/IT Incident,Healthcare Provider,68631
+84,2010,2010,NM,84,9600,Theft,lost / stolen media,healthcare,Hacking/IT Incident,Healthcare Provider,3902
+85,2010,2012,SC,85,653,Theft,poor security,healthcare,Hacking/IT Incident,Healthcare Provider,29153
+86,2010,2017,NY,86,2628,Other,poor security,"financial, credit reporting",Hacking/IT Incident,Health Plan,1062509
+87,2009,2013,NE,87,800,Theft,hacked,web,Hacking/IT Incident,Business Associate,2500
+88,2010,2018,NC,88,5220,Loss,poor security,data broker,Hacking/IT Incident,Healthcare Provider,3116
+89,2010,2015,TX,89,4083,Improper Disposal,hacked,healthcare,Hacking/IT Incident,Healthcare Provider,21880
+90,2010,2015,IL,90,1000,Theft,hacked,telecoms,Hacking/IT Incident,Business Associate,3466120
+91,2010,2013,OH,91,60998,Theft,accidentally published,social network,Hacking/IT Incident,Health Plan,6248
+92,2010,2018,KS,92,1105,Theft,poor security,social network,Hacking/IT Incident,Healthcare Provider,3000
+93,2009,2019,FL,93,1220000,Theft,poor security,social network,Hacking/IT Incident,Business Associate,60582
+94,2010,2019,MN,94,16291,Other,accidentally uploaded,social network,Hacking/IT Incident,Healthcare Provider,6890
+95,2010,2019,NY,95,130495,Theft,poor security,social network,Hacking/IT Incident,Healthcare Provider,3321
+96,2010,2019,MI,96,2300,Theft,hacked,retail,Hacking/IT Incident,Business Associate,6400
+97,2008,2010,KY,97,708,Hacking/IT Incident,hacked,financial,Hacking/IT Incident,Healthcare Provider,10000
+98,2010,2007,TN,98,1745,Loss,inside job,financial,Hacking/IT Incident,Healthcare Provider,8830
+99,2010,2019,TN,99,10515,Theft,poor security,financial service company,Hacking/IT Incident,Business Associate,1145
+100,2010,2013,OH,100,1001,Other,lost / stolen computer,government,Hacking/IT Incident,Business Associate,1179
+101,2010,2016,NY,101,1020,Theft,poor security / hacked,web,Hacking/IT Incident,Health Plan,11000000
+102,2010,2016,TX,102,600,Theft,hacked,web,Hacking/IT Incident,Healthcare Provider,2933
+103,2010,2012,GA,103,14000,Loss,accidentally published,web,Hacking/IT Incident,Healthcare Provider,13237
+104,2010,2020,NV,104,7526,Theft,Poor security,personal and demographic data about residents and their properties of US,Hacking/IT Incident,Healthcare Provider,23015
+105,2010,2012,MD,105,937,Other,hacked,web,Hacking/IT Incident,Business Associate,10104
+106,2010,2007,AZ,106,5893,Theft,lost / stolen computer,retail,Hacking/IT Incident,Healthcare Provider,33698
+107,2010,2010,CA,107,1000,Other,hacked,web,Hacking/IT Incident,Healthcare Provider,500
+108,2010,2012,TN,108,1537,Other,hacked,financial,Hacking/IT Incident,Health Plan,550
+109,2010,2014,CA,109,29000,"Loss, Other",hacked,web,Hacking/IT Incident,Healthcare Provider,231400
+110,2010,2018,NY,110,800,Theft,poor security,social network,Hacking/IT Incident,Healthcare Provider,13000
+111,2010,2012,NY,111,2563,Theft,hacked,government,Hacking/IT Incident,Health Plan,9800
+112,2010,2017,FL,112,2047,Other,hacked,healthcare,Hacking/IT Incident,Healthcare Provider,87314
+113,2010,2008,NM,113,3830,Theft,inside job,energy,Hacking/IT Incident,Health Plan,1475
+114,2010,2007,CO,114,105470,Theft,hacked,retail,Hacking/IT Incident,Healthcare Provider,405000
+115,2010,2018,VA,115,669,Theft,hacked,retail,Hacking/IT Incident,Business Associate,3300
+116,2010,2009,NC,116,13000,Theft,lost / stolen media,healthcare,Hacking/IT Incident,Healthcare Provider,40491
+117,2010,2011,IL,117,1097,Other,lost / stolen media,healthcare,Hacking/IT Incident,Business Associate,4487
+118,2010,2019,MA,118,800000,Loss,poor security,healthcare,Hacking/IT Incident,Health Plan,10946
+119,2010,2009,NY,119,16820,Theft,hacked,financial,Hacking/IT Incident,Healthcare Provider,9493
+120,2010,2006,DC,120,540,Theft,lost / stolen media,"tech, retail",Hacking/IT Incident,Healthcare Provider,13000
+121,2010,2014 and 2015,NY,121,23753,Theft,hacked,hotel,Hacking/IT Incident,Healthcare Provider,27000
+122,2010,2014,OH,122,1200,Improper Disposal,hacked,retail,Hacking/IT Incident,Healthcare Provider,1489
+123,2009,2011,TX,123,27000,Hacking/IT Incident,poor security,retail,Hacking/IT Incident,Healthcare Provider,13674
+124,2010,2020,CT,124,6372,Improper Disposal,poor security,social network,Hacking/IT Incident,Healthcare Provider,15478
+125,2010,2015,TX,125,6873,Theft,hacked,financial,Hacking/IT Incident,Healthcare Provider,6073
+126,2010,2016,KY,126,2631,Other,inside job,healthcare,Hacking/IT Incident,Healthcare Provider,4500000
+127,2009,2012,IN,127,31700,Hacking/IT Incident,hacked,financial,Hacking/IT Incident,Healthcare Provider,708
+128,2010,2015,NC,128,1590,Theft,hacked,special public corporation,Hacking/IT Incident,Healthcare Provider,2365
+129,2010,2004,MI,129,1073,Loss,inside job,shopping,Hacking/IT Incident,Healthcare Provider,64000
+130,2010,2008,TX,130,694,Theft,accidentally published,government,Hacking/IT Incident,Healthcare Provider,16000
+131,2010,2010,TX,131,1646,Theft,lost / stolen media,financial,Hacking/IT Incident,Business Associate,780000
+132,2010,2014,OH,132,1309,Other,hacked,financial,Hacking/IT Incident,Healthcare Provider,7029
+133,2010,2019,PA,133,560,Other,unprotected api,local search,Hacking/IT Incident,Healthcare Provider,882590
+134,2010,2006,OH,134,13867,Theft,hacked,telecoms,Hacking/IT Incident,Health Plan,697586
+135,2010,2013,TX,135,25000,Theft,hacked,academic,Hacking/IT Incident,Healthcare Provider,2938
+136,2010,2016,IL,136,657,"Theft, Loss",hacked,web,Hacking/IT Incident,Health Plan,31700
+137,2010,2014,MA,137,11440,Other,inside job,financial,Hacking/IT Incident,Health Plan,11935
+138,2010,2013,KY,138,2089,Theft,hacked,tech,Hacking/IT Incident,Healthcare Provider,9017
+139,2010,2012,MO,139,1907,Improper Disposal,hacked,telecoms,Hacking/IT Incident,Healthcare Provider,1466
+140,2010,2014,PA,140,21000,Theft,hacked,tech,Hacking/IT Incident,Healthcare Provider,1848
+141,1997,2019,NC,141,2300,Hacking/IT Incident,hacked,healthcare,Hacking/IT Incident,Healthcare Provider,4278
+142,2010,2010,ID,142,5500,Loss,lost / stolen media,healthcare,Hacking/IT Incident,Healthcare Provider,2308
+143,2010,2012,CA,143,10100,Theft,accidentally published,web,Hacking/IT Incident,Healthcare Provider,1253
+144,2010,2013,WA,144,2698,Theft,hacked,web,Hacking/IT Incident,Healthcare Provider,1981
+145,2010,2014,TN,145,1711,Loss,hacked,web,Hacking/IT Incident,Healthcare Provider,306789
+146,2010,2018,CT,146,1000,Theft,hacked,hotel,Hacking/IT Incident,Healthcare Provider,1009
+147,2010,2020,KY,147,2027,Theft,poor security/inside job,hotel,Hacking/IT Incident,Healthcare Provider,5600
+148,2010,2011,IL,148,7081,Theft,poor security,government,Hacking/IT Incident,Healthcare Provider,1310
+149,2010,2012,OR,149,4328,Theft,hacked,financial,Hacking/IT Incident,Healthcare Provider,12286
+150,2010,2012,NM,150,1000,Theft,hacked,"government, healthcare",Hacking/IT Incident,Healthcare Provider,18000
+151,2010,2015,MA,151,24750,Improper Disposal,hacked,healthcare,Hacking/IT Incident,Healthcare Provider,1024
+152,2010,2011,NJ,152,956,Theft,lost / stolen media,healthcare,Hacking/IT Incident,Healthcare Provider,2199
+153,2010,2014,NJ,153,3630,Theft,hacked,retail,Hacking/IT Incident,Healthcare Provider,2742
+154,2010,2019,NY,154,1200,Loss,data exposed by misconfiguration,tech,Hacking/IT Incident,Healthcare Provider,4500
+155,2010,2012,NY,155,857,Loss,accidentally published,"web, military",Hacking/IT Incident,Healthcare Provider,1154
+156,2010,2008,DE,156,22642,Other,accidentally published,government,Hacking/IT Incident,Healthcare Provider,23341
+157,2010,2019,VA,157,2739,Theft,poor security/inside job,healthcare,Hacking/IT Incident,Healthcare Provider,3179
+158,2009,2006,MN,158,1740,Unauthorized Access/Disclosure,intentionally lost,financial,Hacking/IT Incident,Business Associate,2483
+159,2010,2019,NV,159,507,Theft,poor security,tech,Hacking/IT Incident,Healthcare Provider,946
+160,2010,2019,RI,160,1361,Theft,poor security,tech,Hacking/IT Incident,Healthcare Provider,1256
+161,2010,2019,IA,161,19222,Loss,misconfiguration/poor security,telecommunications,Hacking/IT Incident,Healthcare Provider,23000
+162,2010,2007,IN,162,2000,Theft,hacked,web,Hacking/IT Incident,Health Plan,1615
+163,2010,2011,CA,163,33000,Theft,lost / stolen media,financial,Hacking/IT Incident,Healthcare Provider,16107
+164,2010,2014,KS,164,1200,Theft,poor security,web,Hacking/IT Incident,Healthcare Provider,14177
+165,2010,2018,MN,165,1270,Other,unknown,genealogy,Hacking/IT Incident,Healthcare Provider,24967
+166,2010,2014,NY,166,9000,Theft,hacked,retail,Hacking/IT Incident,Healthcare Provider,39000
+167,2010,2011,OH,167,2123,Improper Disposal,lost / stolen media,healthcare,Hacking/IT Incident,Healthcare Provider,3952
+168,2010,2009,AK,168,2000,Theft,hacked,tech,Hacking/IT Incident,Healthcare Provider,756
+169,2010,2010,IN,169,1199,Theft,lost / stolen media,healthcare,Hacking/IT Incident,Healthcare Provider,1326
+170,2010,2012,MA,170,20000,Improper Disposal,inside job,energy,Hacking/IT Incident,Healthcare Provider,2269
+171,2010,2014,CA,171,1474,Theft,poor security,transport,Hacking/IT Incident,Healthcare Provider,3184
+172,2010,2011,CA,172,1474,Theft,hacked,web,Hacking/IT Incident,Healthcare Provider,5883
+173,2010,2011,NY,173,6800,Theft,lost / stolen media,healthcare,Hacking/IT Incident,Healthcare Provider,26588
+174,2010,2013,IL,174,967,Improper Disposal,hacked,gaming,Hacking/IT Incident,Healthcare Provider,19776
+175,2010,2020,OK,175,19200,Hacking/IT Incident,hacked,gaming,Hacking/IT Incident,Business Associate,3900000
+176,2010,2016,CA,176,928,Theft,hacked,media,Hacking/IT Incident,Healthcare Provider,28000
+177,2010,2016,MA,177,11000,Improper Disposal,hacked,gaming,Hacking/IT Incident,Healthcare Provider,19397
+178,2010,2008,NY,178,578,Theft,accidentally published,government,Hacking/IT Incident,Healthcare Provider,3000
+179,2010,2020,TX,179,4700,Theft,rogue contractor,financial,Hacking/IT Incident,Healthcare Provider,500
+180,2010,2015,KY,180,2200,Theft,hacked,government,Hacking/IT Incident,Healthcare Provider,1500
+181,2010,2012,MD,181,692,Other,accidentally published,government,Hacking/IT Incident,Health Plan,5338
+182,2010,2010,TX,182,585,Theft,hacked,academic,Hacking/IT Incident,Healthcare Provider,1350
+183,2010,2018,UT,183,1298,Other,hacked,web,Hacking/IT Incident,Healthcare Provider,2473
+184,2010,2015,WA,184,9493,Hacking/IT Incident,hacked,web,Hacking/IT Incident,Healthcare Provider,2250
+185,2010,2020,AR,185,1000,Theft,"improper setting, hacked",QR code payment,Hacking/IT Incident,Healthcare Provider,4082
+186,2009,2018,TN,186,1023209,Theft,hacked,fashion,Hacking/IT Incident,Healthcare Provider,4000
+187,2010,2015,CA,187,716,Loss,hacked,healthcare,Hacking/IT Incident,Healthcare Provider,1000
+188,2008,2010,PR,188,475000,"Unauthorized Access/Disclosure, Hacking/IT Incident",hacked,healthcare,Hacking/IT Incident,Healthcare Provider,3000
+189,2010,2019,CT,189,2345,Unauthorized Access/Disclosure,poor security,Clinical Laboratory,Hacking/IT Incident,Health Plan,30000
+190,2010,2018,MS,190,1104,Theft,hacked,Question & Answer,Hacking/IT Incident,Healthcare Provider,5415
+191,2010,2020,PR,191,115000,Unauthorized Access/Disclosure,"improper setting, hacked",web,Hacking/IT Incident,Healthcare Provider,15625
+192,2010,2012,CT,192,12000,Theft,hacked,web,Hacking/IT Incident,Healthcare Provider,84681
+193,2010,2008,NE,193,1550,Theft,hacked,financial,Hacking/IT Incident,Healthcare Provider,1070
+194,2010,2011,NY,194,535,Theft,hacked,retail,Hacking/IT Incident,Healthcare Provider,845
+195,2010,2009,IN,195,845,Unauthorized Access/Disclosure,hacked,"web, gaming",Hacking/IT Incident,Healthcare Provider,532
+196,2010,2015,MO,196,1400,Theft,inside job,government,Hacking/IT Incident,Health Plan,9393
+197,2010,2011,MI,197,3700,Theft,hacked,government,Hacking/IT Incident,Healthcare Provider,686
+198,2010,2015,FL,198,1500,Theft,hacked,financial,Hacking/IT Incident,Healthcare Provider,3650
+199,2010,2013,NJ,199,1744,Theft,hacked,web,Hacking/IT Incident,Health Plan,500
+200,2010,2010,CA,200,771,Unauthorized Access/Disclosure,hacked,healthcare,Hacking/IT Incident,Healthcare Provider,2000
+201,2010,2011,OK,201,1950,"Theft, Loss, Improper Disposal",hacked,gaming,Hacking/IT Incident,Healthcare Provider,860
+202,2010,2008,PA,202,613,Theft,lost / stolen media,government,Hacking/IT Incident,Healthcare Provider,1506
+203,2010,2018,NY,203,542,Theft,hacked,"government, database",Hacking/IT Incident,Healthcare Provider,824
+204,2009,2015,TN,204,8200,Improper Disposal,poor security,tech,Hacking/IT Incident,Health Plan,1100
+205,2010,2020,LA,205,9475,Unauthorized Access/Disclosure,poor security,phone accessories,Hacking/IT Incident,Healthcare Provider,1200
+206,2010,2013,TX,206,800,Theft,hacked,"web, tech",Hacking/IT Incident,Healthcare Provider,2723
+207,2010,2011,PR,207,1000,"Theft, Unauthorized Access/Disclosure, Hacking/IT Incident",hacked,gaming,Hacking/IT Incident,Healthcare Provider,3000
+208,2008,2011,PA,208,1085,Unauthorized Access/Disclosure,hacked,web,Hacking/IT Incident,Healthcare Provider,2300
+209,2010,2011,MD,209,1000,Hacking/IT Incident,hacked,gaming,Hacking/IT Incident,Healthcare Provider,6000
+210,2010,2013,IL,210,556,Theft,hacked,government,Hacking/IT Incident,Healthcare Provider,674
+211,2010,2012,WI,211,3288,Theft,inside job,healthcare,Hacking/IT Incident,Business Associate,3000
+212,2003,2010,OH,212,1000,Improper Disposal,lost / stolen media,healthcare,Hacking/IT Incident,Healthcare Provider,1600
+213,2010,2011,CA,213,1250,Theft,hacked,healthcare,Hacking/IT Incident,Healthcare Provider,800
+214,2010,2011,WI,214,585,Unauthorized Access/Disclosure,lost / stolen computer,healthcare,Hacking/IT Incident,Healthcare Provider,12500
+215,2010,2008,IN,215,757,Theft,lost / stolen computer,academic,Hacking/IT Incident,Healthcare Provider,2988
+216,2010,2008,MN,216,3159,Theft,lost / stolen computer,retail,Hacking/IT Incident,Healthcare Provider,921
+217,2010,2011,PA,217,2928,Unauthorized Access/Disclosure,accidentally published,government,Hacking/IT Incident,Healthcare Provider,5000
+218,2010,2011,KY,218,24600,"Theft, Loss",hacked,web,Hacking/IT Incident,Healthcare Provider,981
+219,2010,2019,MD,219,800,Theft,hacked,retail,Hacking/IT Incident,Healthcare Provider,1670
+220,2010,2011,AL,220,2000,Theft,accidentally published,military,Hacking/IT Incident,Healthcare Provider,2300
+221,2010,2011,PA,221,808,Loss,lost / stolen computer,healthcare,Hacking/IT Incident,Healthcare Provider,19200
+222,2010,2012,FL,222,156000,Theft,hacked,government,Hacking/IT Incident,Healthcare Provider,76183
+223,2008,2016,OH,223,501,Theft,hacked,retail,"Hacking/IT Incident, Other",Business Associate,520
+224,2010,2017,NH,224,231400,Hacking/IT Incident,hacked,web,"Hacking/IT Incident, Other",Healthcare Provider,3200
+225,2010,2013,FL,225,2200,Theft,hacked,retail,"Hacking/IT Incident, Other, Unauthorized Access/Disclosure",Healthcare Provider,4354
+226,2010,2016,VA,226,11982,Theft,hacked,web,"Hacking/IT Incident, Theft",Healthcare Provider,27800
+227,2010,2007,IN,227,1848,Hacking/IT Incident,hacked,financial,"Hacking/IT Incident, Theft, Unauthorized Access/Disclosure",Healthcare Provider,13000
+228,2010,2012,TX,228,9922,"Theft, Loss",hacked,financial,"Hacking/IT Incident, Theft, Unauthorized Access/Disclosure",Business Associate,800
+229,2010,2013,WA,229,1250,Theft,accidentally published,telecoms,"Hacking/IT Incident, Unauthorized Access/Disclosure",Healthcare Provider,11000
+230,2010,2020,SC,230,5596,Hacking/IT Incident,poor security,market analysis,"Hacking/IT Incident, Unauthorized Access/Disclosure",Business Associate,11387
+231,2010,2007,MI,231,656,Theft,inside job,government,"Hacking/IT Incident, Unauthorized Access/Disclosure",Healthcare Provider,1300
+232,2010,2018,SC,232,16200,Loss,hacked,ticket distribution,"Hacking/IT Incident, Unauthorized Access/Disclosure",Healthcare Provider,42000
+233,2010,2011,TN,233,4800,Theft,hacked,web,"Hacking/IT Incident, Unauthorized Access/Disclosure",Business Associate,10766
+234,2010,2020,WA,234,12009,Theft,poor security,social media,"Hacking/IT Incident, Unauthorized Access/Disclosure",Healthcare Provider,800
+235,2010,2007,TX,235,4486,Theft,hacked,retail,"Hacking/IT Incident, Unauthorized Access/Disclosure",Healthcare Provider,7000
+236,2010,2006,TX,236,8241,Theft,lost / stolen media,telecoms,"Hacking/IT Incident, Unauthorized Access/Disclosure",Healthcare Provider,97000
+237,2010,2021,TN,237,500,Theft,hacked,telecom,Improper Disposal,Healthcare Provider,2717
+238,2010,2011,CO,238,546,Theft,lost / stolen computer,"military, healthcare",Improper Disposal,Healthcare Provider,6195
+239,2011,2010,KY,239,18871,Hacking/IT Incident,lost / stolen media,healthcare,Improper Disposal,Healthcare Provider,700
+240,2011,2019,MT,240,37000,"Theft, Loss",unknown,Telephone directory,Improper Disposal,Healthcare Provider,1655
+241,2011,2013,WA,241,3100,Theft,hacked,web,Improper Disposal,Healthcare Provider,113528
+242,2010,2013,MO,242,800,Hacking/IT Incident,hacked,web,Improper Disposal,Healthcare Provider,1854
+243,2010,2014,NY,243,1700000,Theft,poor security,tech,Improper Disposal,Business Associate,189489
+244,2010,2017,CA,244,2250,Unauthorized Access/Disclosure,hacked,transport,Improper Disposal,Healthcare Provider,1000
+245,2011,2013,IL,245,2700,Theft,hacked,tech,Improper Disposal,Healthcare Provider,3534
+246,2011,2015,WV,246,3655,Unauthorized Access/Disclosure,hacked,healthcare,Improper Disposal,Health Plan,12450
+247,2010,2008,AZ,247,2291,Loss,lost / stolen media,government,Improper Disposal,Health Plan,3000
+248,2010,2008,PR,248,2621,Unknown,lost / stolen media,government,Improper Disposal,Healthcare Provider,1000
+249,2011,2007,MI,249,2777,Loss,lost / stolen media,government,Improper Disposal,Business Associate,11000
+250,2010,2019,NY,250,500,Theft,hacked,academic,Improper Disposal,Health Plan,1212
+251,2010,2018,CO,251,4500,Unauthorized Access/Disclosure,hacked,Consumer Goods,Improper Disposal,Business Associate,16988
+252,2010,2009,FL,252,7366,Unknown,hacked,academic,Improper Disposal,Business Associate,1200
+253,2010,2016,MA,253,942,Unauthorized Access/Disclosure,hacked,academic,Improper Disposal,Healthcare Provider,500
+254,2011,2014,KY,254,8845,Theft,hacked,academic,Improper Disposal,Healthcare Provider,1376
+255,2010,2016,OK,255,600,Loss,hacked,academic,Improper Disposal,Healthcare Provider,1586
+256,2011,2008,MO,256,765,Unauthorized Access/Disclosure,lost / stolen computer,academic,Improper Disposal,Business Associate,2000
+257,2010,2008,TX,257,654,Unknown,lost / stolen media,academic,Improper Disposal,Healthcare Provider,1778
+258,2011,2011,NY,258,670,Theft,hacked,academic,Improper Disposal,Healthcare Provider,5000
+259,2011,2018,AL,259,20744,Theft,poor security,government,Improper Disposal,Business Associate,13074
+260,2010,2011,WV,260,1470,Unauthorized Access/Disclosure,accidentally published,military,Improper Disposal,Healthcare Provider,1000
+261,2011,2010,CA,261,667,Theft,inside job,government,Improper Disposal,Healthcare Provider,606
+262,2011,2009,CA,262,514330,Theft,lost / stolen media,military,Improper Disposal,Healthcare Provider,750
+263,2011,2006,AK,263,1700,Theft,lost / stolen computer,"government, military",Improper Disposal,Health Plan,2850
+264,2011,2011,AZ,264,635,Theft,accidentally published,government,Improper Disposal,Healthcare Provider,19000
+265,2011,2009,AZ,265,10000,Theft,lost / stolen media,military,Improper Disposal,Business Associate,603
+266,2011,2010,CT,266,93500,Loss,inside job,military,Improper Disposal,Healthcare Provider,967
+267,2011,2009,OK,267,84000,Theft,lost / stolen computer,military,Improper Disposal,Healthcare Provider,1907
+268,2011,2020,MO,268,935,Unauthorized Access/Disclosure,hacked,healthcare,Improper Disposal,Healthcare Provider,1483
+269,2011,2016,OK,269,132940,Theft,hacked,telecoms,Improper Disposal,Healthcare Provider,8200
+270,2011,2020,SC,270,2717,Improper Disposal,publicly accessible Amazon Web Services (AWS) server,online marketing,Improper Disposal,Healthcare Provider,4083
+271,2011,2020,CA,271,1900000,Unknown,accidentally exposed,mobile carrier,Improper Disposal,Healthcare Provider,1100
+272,2004,2009,AZ,272,566,Theft,hacked,"government, healthcare",Improper Disposal,Healthcare Provider,1726
+273,2011,2009,MN,273,1215,Loss,hacked,healthcare,Improper Disposal,Healthcare Provider,50000
+274,2011,2013,WI,274,675,Unauthorized Access/Disclosure,inside job,telecoms,Improper Disposal,Healthcare Provider,2000
+275,2011,2015,WY,275,15000,Hacking/IT Incident,hacked,retail,Improper Disposal,Healthcare Provider,28300
+276,2011,2015,NC,276,6000,Hacking/IT Incident,hacked,retail,Improper Disposal,Healthcare Provider,1031
+277,2011,2011,IL,277,845,Hacking/IT Incident,hacked,media,Improper Disposal,Business Associate,5388
+278,2011,2013,IL,278,686,Hacking/IT Incident,hacked,government,Improper Disposal,Healthcare Provider,500
+279,2011,2020,AZ,279,9393,Hacking/IT Incident,hacked,web,Improper Disposal,Healthcare Clearing House,4204
+280,2011,2020,IL,280,532,Hacking/IT Incident,hacked,retail,Improper Disposal,Business Associate,277014
+281,2011,2016,IL,281,1070,Hacking/IT Incident,hacked,web,Improper Disposal,Healthcare Provider,720
+282,2010,2011,OH,282,500,Improper Disposal,hacked,web,Improper Disposal,Healthcare Provider,3529
+283,2011,2015,NH,283,5960,Theft,social engineering,web,Improper Disposal,Healthcare Provider,55000
+284,2011,2013,TX,284,1500,Theft,hacked,web,Improper Disposal,Healthcare Provider,
+285,2011,2014,MA,285,563,Theft,hacked,web,Improper Disposal,Health Plan,1127
+286,2011,2013,IN,286,22001,Theft,hacked,"tech, web",Improper Disposal,Health Plan,10000
+287,2011,2012,MO,287,850,Unauthorized Access/Disclosure,hacked,web,Improper Disposal,Healthcare Provider,500
+288,2010,2010,PA,288,1388,Theft,accidentally published,academic,"Improper Disposal, Loss",Healthcare Provider,1430
+289,2011,2020,PR,289,32390,Theft,poor security,social media,"Improper Disposal, Loss",Healthcare Provider,2000
+290,2011,2012,PR,290,24361,Theft,hacked,web,"Improper Disposal, Loss",Business Associate,2260
+291,2011,2019,AZ,291,654,"Theft, Unauthorized Access/Disclosure",hacked,social network,"Improper Disposal, Loss, Theft",Business Associate,49714
+292,2011,2019,FL,292,8000,Theft,hacked,financial,"Improper Disposal, Loss, Theft",Healthcare Provider,1950
+293,2011,2020,CA,293,620,Theft,accidentally published,financial,"Improper Disposal, Loss, Theft",Business Associate,1674
+294,2011,2020,TX,294,1031,Improper Disposal,poor security,healthcare,"Improper Disposal, Theft",Business Associate,501
